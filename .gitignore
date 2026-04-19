@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Claude Code — личные настройки (не для команды)
+.claude/settings.local.json
+.claude/agent-memory/
+
+# Временные файлы редакторов
+*.tmp
+*.bak
+*~
+.#*
+\#*\#
+
+# Word временные файлы
+~$*.docx
+~$*.doc
+
+# Plans (временные планировочные файлы)
+.claude/plans/
