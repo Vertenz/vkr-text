@@ -4,7 +4,7 @@ description: Номера источников, их содержание и п�
 type: project
 ---
 
-Файл: bibliography.md (30 источников по состоянию на 2026-04-19)
+Файл: bibliography.md (40 источников по состоянию на 2026-05-07)
 
 Раздел II. Книги и научные статьи (источники 1–11):
 1. Dabbeet K. — Nuxt 3 Projects (Packt, 2024)
@@ -39,6 +39,16 @@ type: project
 28. Vue.js Documentation — добавлен для §1.3
 29. Apache Kafka Documentation — добавлен для §1.3
 30. SQLAlchemy Documentation — добавлен для §1.3
+31. OpenAPI Specification — добавлен для §1.3/§1.6
+32. RFC 8555 (ACME) — для §1.7 (стратегия развёртывания)
+33. Ubuntu Server Guide — для §1.7
+34-36. Источники НАФИ/РБК/ДомРФ — для введения / §1.1
+37. Newman S. — Building Microservices (O'Reilly, 2021) — добавлен для §1.3/§1.4
+
+Раздел IV. Отраслевые стандарты (источники 38–40):
+38. IETF — The Idempotency-Key HTTP Header Field (draft) — для §1.5.4 и §1.6.1
+39. Jones M. — RFC 7519 JWT (IETF, 2015) — для §1.4.2
+40. OWASP Password Storage Cheat Sheet — для §1.5.2
 
 ВНИМАНИЕ: В тексте §1.1 использована ссылка [14] (Mohan, Medium) — это интернет-источник на Medium, приемлемость нужно уточнить у руководителя.
 

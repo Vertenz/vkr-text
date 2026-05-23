@@ -54,7 +54,7 @@
 
 19. Tricount — Split bills and group expenses [Электронный ресурс]. — URL: https://www.tricount.com (дата обращения: 12.04.2026).
 
-20. Honestlly — Group expense sharing [Электронный ресурс]. — URL: https://honestlly.com (дата обращения: 12.04.2026).
+20. Splid — Split group bills [Электронный ресурс] / Team Turtle. — URL: https://splid.app (дата обращения: 06.05.2026).
 
 21. Дзен-мани — Умный учёт личных финансов [Электронный ресурс]. — URL: https://zenmoney.ru (дата обращения: 12.04.2026).
 
@@ -77,6 +77,28 @@
 30. SQLAlchemy Documentation [Электронный ресурс]. — URL: https://docs.sqlalchemy.org (дата обращения: 19.04.2026).
 
 31. OpenAPI Specification [Электронный ресурс]. — URL: https://spec.openapis.org/oas/latest.html (дата обращения: 19.04.2026).
+
+32. Barnes R. Automatic Certificate Management Environment (ACME) : RFC 8555 [Электронный ресурс] / R. Barnes, J. Hoffman-Andrews, D. McCarney, J. Kasten. — IETF, 2019. — URL: https://datatracker.ietf.org/doc/html/rfc8555 (дата обращения: 26.04.2026).
+
+33. Ubuntu Server Guide [Электронный ресурс]. — Canonical, 2024. — URL: https://documentation.ubuntu.com/server/ (дата обращения: 26.04.2026).
+
+34. Аналитический центр «Дом.РФ». Спрос на аренду жилья в России к 2030 году вырастет более чем на 25 % : совместное исследование с ВЦИОМ [Электронный ресурс] // РБК Недвижимость. — 26.02.2026. — URL: https://realty.rbc.ru/news/69a047fa9a7947257ad4e03e (дата обращения: 06.05.2026).
+
+35. Аналитический центр НАФИ. В России 83 % молодёжи считают семейный отдых наиболее интересным форматом путешествий : исследование совместно с программой Росмолодёжи «Больше, чем путешествие» [Электронный ресурс]. — 2024. — URL: https://nafi.ru/analytics/v-rossii-83-molodezhi-schitayut-semeynyy-otdykh-naibolee-interesnym-formatom-puteshestviy/ (дата обращения: 06.05.2026).
+
+36. Аналитический центр НАФИ. Россияне рассказали, сколько мобильных приложений используют для разных задач [Электронный ресурс]. — 03.05.2024. — URL: https://nafi.ru/analytics/rossiyane-rasskazali-skolko-mobilnykh-prilozheniy-ispolzuyut-dlya-raznykh-zadach/ (дата обращения: 06.05.2026).
+
+37. Newman S. Building Microservices: Designing Fine-Grained Systems / S. Newman. — 2nd ed. — Sebastopol : O'Reilly Media, 2021. — 612 p. — ISBN 978-1-492-03402-5.
+
+---
+
+## IV. Отраслевые стандарты и рекомендации
+
+38. IETF. The Idempotency-Key HTTP Header Field : draft-ietf-httpapi-idempotency-key-header [Электронный ресурс] / Internet Engineering Task Force. — URL: https://datatracker.ietf.org/doc/draft-ietf-httpapi-idempotency-key-header/ (дата обращения: 07.05.2026).
+
+39. Jones M. JSON Web Token (JWT) : RFC 7519 [Электронный ресурс] / M. Jones, J. Bradley, N. Sakimura. — IETF, 2015. — URL: https://datatracker.ietf.org/doc/html/rfc7519 (дата обращения: 07.05.2026).
+
+40. OWASP Foundation. Password Storage Cheat Sheet [Электронный ресурс] / OWASP Cheat Sheet Series. — URL: https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html (дата обращения: 07.05.2026).
 
 ---
 
