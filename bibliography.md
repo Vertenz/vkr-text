@@ -64,53 +64,59 @@
 
 24. Zustand Documentation [Электронный ресурс]. — URL: https://zustand.docs.pmnd.rs (дата обращения: 28.05.2026).
 
-25. Django Documentation [Электронный ресурс]. — URL: https://docs.djangoproject.com (дата обращения: 19.04.2026).
+25. SQLAlchemy Documentation [Электронный ресурс]. — URL: https://docs.sqlalchemy.org (дата обращения: 19.04.2026).
 
-26. Express.js Documentation [Электронный ресурс]. — URL: https://expressjs.com (дата обращения: 19.04.2026).
+26. OpenAPI Specification [Электронный ресурс]. — URL: https://spec.openapis.org/oas/latest.html (дата обращения: 19.04.2026).
 
-27. Vue.js Documentation [Электронный ресурс]. — URL: https://vuejs.org/guide (дата обращения: 19.04.2026).
+27. Аналитический центр «Дом.РФ». Спрос на аренду жилья в России к 2030 году вырастет более чем на 25 % : совместное исследование с ВЦИОМ [Электронный ресурс] // РБК Недвижимость. — 26.02.2026. — URL: https://realty.rbc.ru/news/69a047fa9a7947257ad4e03e (дата обращения: 06.05.2026).
 
-28. Apache Kafka Documentation [Электронный ресурс]. — URL: https://kafka.apache.org/documentation/ (дата обращения: 19.04.2026).
+28. Аналитический центр НАФИ. В России 83 % молодёжи считают семейный отдых наиболее интересным форматом путешествий : исследование совместно с программой Росмолодёжи «Больше, чем путешествие» [Электронный ресурс]. — 12.02.2025. — URL: https://nafi.ru/analytics/v-rossii-83-molodezhi-schitayut-semeynyy-otdykh-naibolee-interesnym-formatom-puteshestviy/ (дата обращения: 06.05.2026).
 
-29. SQLAlchemy Documentation [Электронный ресурс]. — URL: https://docs.sqlalchemy.org (дата обращения: 19.04.2026).
+29. Аналитический центр НАФИ. Россияне рассказали, сколько мобильных приложений используют для разных задач [Электронный ресурс]. — 03.05.2024. — URL: https://nafi.ru/analytics/rossiyane-rasskazali-skolko-mobilnykh-prilozheniy-ispolzuyut-dlya-raznykh-zadach/ (дата обращения: 06.05.2026).
 
-30. OpenAPI Specification [Электронный ресурс]. — URL: https://spec.openapis.org/oas/latest.html (дата обращения: 19.04.2026).
-
-31. Аналитический центр «Дом.РФ». Спрос на аренду жилья в России к 2030 году вырастет более чем на 25 % : совместное исследование с ВЦИОМ [Электронный ресурс] // РБК Недвижимость. — 26.02.2026. — URL: https://realty.rbc.ru/news/69a047fa9a7947257ad4e03e (дата обращения: 06.05.2026).
-
-32. Аналитический центр НАФИ. В России 83 % молодёжи считают семейный отдых наиболее интересным форматом путешествий : исследование совместно с программой Росмолодёжи «Больше, чем путешествие» [Электронный ресурс]. — 12.02.2025. — URL: https://nafi.ru/analytics/v-rossii-83-molodezhi-schitayut-semeynyy-otdykh-naibolee-interesnym-formatom-puteshestviy/ (дата обращения: 06.05.2026).
-
-33. Аналитический центр НАФИ. Россияне рассказали, сколько мобильных приложений используют для разных задач [Электронный ресурс]. — 03.05.2024. — URL: https://nafi.ru/analytics/rossiyane-rasskazali-skolko-mobilnykh-prilozheniy-ispolzuyut-dlya-raznykh-zadach/ (дата обращения: 06.05.2026).
-
-34. Newman S. Building Microservices: Designing Fine-Grained Systems / S. Newman. — 2nd ed. — Sebastopol : O'Reilly Media, 2021. — 612 p. — ISBN 978-1-492-03402-5.
+30. Newman S. Building Microservices: Designing Fine-Grained Systems / S. Newman. — 2nd ed. — Sebastopol : O'Reilly Media, 2021. — 612 p. — ISBN 978-1-492-03402-5.
 
 ---
 
 ## IV. Отраслевые стандарты и рекомендации
 
-35. Jena J. The Idempotency-Key HTTP Header Field : draft-ietf-httpapi-idempotency-key-header (Internet-Draft) [Электронный ресурс] / J. Jena, S. Dalal ; Internet Engineering Task Force. — 2025. — URL: https://datatracker.ietf.org/doc/draft-ietf-httpapi-idempotency-key-header/ (дата обращения: 07.05.2026).
+31. Jena J. The Idempotency-Key HTTP Header Field : draft-ietf-httpapi-idempotency-key-header (Internet-Draft) [Электронный ресурс] / J. Jena, S. Dalal ; Internet Engineering Task Force. — 2025. — URL: https://datatracker.ietf.org/doc/draft-ietf-httpapi-idempotency-key-header/ (дата обращения: 07.05.2026).
 
-36. Jones M. JSON Web Token (JWT) : RFC 7519 [Электронный ресурс] / M. Jones, J. Bradley, N. Sakimura. — IETF, 2015. — URL: https://datatracker.ietf.org/doc/html/rfc7519 (дата обращения: 07.05.2026).
+32. Jones M. JSON Web Token (JWT) : RFC 7519 [Электронный ресурс] / M. Jones, J. Bradley, N. Sakimura. — IETF, 2015. — URL: https://datatracker.ietf.org/doc/html/rfc7519 (дата обращения: 07.05.2026).
 
-37. OWASP Foundation. Password Storage Cheat Sheet [Электронный ресурс] / OWASP Cheat Sheet Series. — URL: https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html (дата обращения: 07.05.2026).
+33. OWASP Foundation. Password Storage Cheat Sheet [Электронный ресурс] / OWASP Cheat Sheet Series. — URL: https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html (дата обращения: 07.05.2026).
 
-38. React Router Documentation [Электронный ресурс]. — URL: https://reactrouter.com (дата обращения: 28.05.2026).
+34. React Router Documentation [Электронный ресурс]. — URL: https://reactrouter.com (дата обращения: 28.05.2026).
 
-39. TanStack Query Documentation [Электронный ресурс]. — URL: https://tanstack.com/query/latest (дата обращения: 28.05.2026).
+35. TanStack Query Documentation [Электронный ресурс]. — URL: https://tanstack.com/query/latest (дата обращения: 28.05.2026).
 
-40. Vite Documentation [Электронный ресурс]. — URL: https://vite.dev (дата обращения: 28.05.2026).
+36. Vite Documentation [Электронный ресурс]. — URL: https://vite.dev (дата обращения: 28.05.2026).
 
-41. Settle Up — Split expenses with friends [Электронный ресурс] / Step Up Labs. — URL: https://settleup.io (дата обращения: 30.05.2026).
+37. Settle Up — Split expenses with friends [Электронный ресурс] / Step Up Labs. — URL: https://settleup.io (дата обращения: 30.05.2026).
 
-42. Т-Банк. Как разделить общий счёт в ресторане : функция «Разделить» в мобильном приложении [Электронный ресурс] // Блог Т-Банка. — URL: https://www.tbank.ru/finance/blog/split-bills/ (дата обращения: 30.05.2026).
+38. Т-Банк. Как разделить общий счёт в ресторане : функция «Разделить» в мобильном приложении [Электронный ресурс] // Блог Т-Банка. — URL: https://www.tbank.ru/finance/blog/split-bills/ (дата обращения: 30.05.2026).
 
-43. Никитов А. Совместный сбор денег от Сбербанка: как создать общий сбор [Электронный ресурс] // Рамблер/личные финансы. — 2025. — 10 марта. — URL: https://finance.rambler.ru/karty-i-platezhi/54315479-sovmestnyy-sbor-deneg-ot-sberbanka-kak-sozdat-obschiy-sbor/ (дата обращения: 30.05.2026).
+39. Никитов А. Совместный сбор денег от Сбербанка: как создать общий сбор [Электронный ресурс] // Рамблер/личные финансы. — 2025. — 10 марта. — URL: https://finance.rambler.ru/karty-i-platezhi/54315479-sovmestnyy-sbor-deneg-ot-sberbanka-kak-sozdat-obschiy-sbor/ (дата обращения: 30.05.2026).
+
+40. Splitwise Engineering Blog [Электронный ресурс] / Splitwise, Inc. — URL: https://blog.splitwise.com/category/dev-blog/ (дата обращения: 30.05.2026).
+
+41. Splitwise — open source repositories [Электронный ресурс] / Splitwise, Inc. — GitHub. — URL: https://github.com/splitwise (дата обращения: 30.05.2026).
+
+42. Splitwise Technology Stack [Электронный ресурс] / Prospeo. — URL: https://prospeo.io/c/splitwise (дата обращения: 30.05.2026).
+
+43. Vávra D. mdevCoinExchange — a successful conference gamification based on Firebase and Angular [Электронный ресурс] / D. Vávra // mdevcamp on Medium. — URL: https://medium.com/mdevcamp/mdevcoinexchange-a-successful-conference-gamification-based-on-firebase-and-angular-fc7efee53da0 (дата обращения: 30.05.2026).
+
+44. Procházka F. Our experience with Firebase Cloud Messaging [Электронный ресурс] / F. Procházka // Step Up Labs on Medium. — URL: https://medium.com/step-up-labs/our-experience-with-firebase-cloud-messaging-318043e667e3 (дата обращения: 30.05.2026).
+
+45. Egregors. ZenMoney Backup : Backup your ZenMoney data using the official API [Электронный ресурс] / Egregors. — GitHub. — URL: https://github.com/egregors/zenmoney-backup (дата обращения: 30.05.2026).
+
+46. Sviridov A. A Bit on Personal Finance and Python [Электронный ресурс] / A. Sviridov // Tech blog about the boring stuff. — 06.01.2026. — URL: https://mrlokans.work/posts/a-bit-on-personal-finance-and-python/ (дата обращения: 30.05.2026).
+
+47. Manish Kumar M. CoinKeeper : an expense tracking web application [Электронный ресурс] / M. Manish Kumar. — GitHub. — URL: https://github.com/mk-manishkumar/coinkeeper (дата обращения: 30.05.2026).
 
 ---
 
 ## Примечания по пополнению списка
 
-- **§1.2** (анализ существующих решений): добавить ссылки на официальные сайты Tricount и отечественных аналогов как интернет-источники.
-- **§1.3** (выбор стека): при добавлении сравнений технологий — ссылки на документацию Django, Express.js, Vue.js (как отклонённой альтернативы), React, Vite, React Router, TanStack Query.
 - **§2.4** (тестирование): при использовании конкретных инструментов (pytest, Locust, etc.) — добавить интернет-источники.
 - Если руководитель потребует дополнительные отечественные источники — добавить из eLIBRARY или КиберЛенинки.
