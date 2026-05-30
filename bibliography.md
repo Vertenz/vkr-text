@@ -102,9 +102,9 @@
 
 41. Splitwise — open source repositories [Электронный ресурс] / Splitwise, Inc. — GitHub. — URL: https://github.com/splitwise (дата обращения: 30.05.2026).
 
-42. Splitwise Technology Stack [Электронный ресурс] / Prospeo. — URL: https://prospeo.io/c/splitwise (дата обращения: 30.05.2026).
+42. Software Engineer, Backend : Job description [Электронный ресурс] / Splitwise, Inc. — URL: https://www.splitwise.com/jobs/software_engineer_backend (дата обращения: 30.05.2026).
 
-43. Vávra D. mdevCoinExchange — a successful conference gamification based on Firebase and Angular [Электронный ресурс] / D. Vávra // mdevcamp on Medium. — URL: https://medium.com/mdevcamp/mdevcoinexchange-a-successful-conference-gamification-based-on-firebase-and-angular-fc7efee53da0 (дата обращения: 30.05.2026).
+43. Vávra D. Settle Up is betting on the new Firebase [Электронный ресурс] / D. Vávra // Step Up Labs on Medium. — URL: https://medium.com/step-up-labs/settle-up-is-betting-on-the-new-firebase-d8efa1d9d0a8 (дата обращения: 30.05.2026).
 
 44. Procházka F. Our experience with Firebase Cloud Messaging [Электронный ресурс] / F. Procházka // Step Up Labs on Medium. — URL: https://medium.com/step-up-labs/our-experience-with-firebase-cloud-messaging-318043e667e3 (дата обращения: 30.05.2026).
 
@@ -113,6 +113,8 @@
 46. Sviridov A. A Bit on Personal Finance and Python [Электронный ресурс] / A. Sviridov // Tech blog about the boring stuff. — 06.01.2026. — URL: https://mrlokans.work/posts/a-bit-on-personal-finance-and-python/ (дата обращения: 30.05.2026).
 
 47. Manish Kumar M. CoinKeeper : an expense tracking web application [Электронный ресурс] / M. Manish Kumar. — GitHub. — URL: https://github.com/mk-manishkumar/coinkeeper (дата обращения: 30.05.2026).
+
+48. Awasthi V. Genz-Splitwise / V. Awasthi, S. Kushwaha, Shraddha, Saumya // International Journal for Multidisciplinary Research (IJFMR). — 2026. — Vol. 8, Issue 3 (May–June). — Paper ID IJFMR260377470. — URL: https://www.ijfmr.com/papers/2026/3/77470.pdf (дата обращения: 30.05.2026).
 
 ---
 
