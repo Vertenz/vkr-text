@@ -76,39 +76,35 @@
 
 30. OpenAPI Specification [Электронный ресурс]. — URL: https://spec.openapis.org/oas/latest.html (дата обращения: 19.04.2026).
 
-31. Barnes R. Automatic Certificate Management Environment (ACME) : RFC 8555 [Электронный ресурс] / R. Barnes, J. Hoffman-Andrews, D. McCarney, J. Kasten. — IETF, 2019. — URL: https://datatracker.ietf.org/doc/html/rfc8555 (дата обращения: 26.04.2026).
+31. Аналитический центр «Дом.РФ». Спрос на аренду жилья в России к 2030 году вырастет более чем на 25 % : совместное исследование с ВЦИОМ [Электронный ресурс] // РБК Недвижимость. — 26.02.2026. — URL: https://realty.rbc.ru/news/69a047fa9a7947257ad4e03e (дата обращения: 06.05.2026).
 
-32. Ubuntu Server Guide [Электронный ресурс]. — Canonical, 2024. — URL: https://ubuntu.com/server/docs/ (дата обращения: 26.04.2026).
+32. Аналитический центр НАФИ. В России 83 % молодёжи считают семейный отдых наиболее интересным форматом путешествий : исследование совместно с программой Росмолодёжи «Больше, чем путешествие» [Электронный ресурс]. — 12.02.2025. — URL: https://nafi.ru/analytics/v-rossii-83-molodezhi-schitayut-semeynyy-otdykh-naibolee-interesnym-formatom-puteshestviy/ (дата обращения: 06.05.2026).
 
-33. Аналитический центр «Дом.РФ». Спрос на аренду жилья в России к 2030 году вырастет более чем на 25 % : совместное исследование с ВЦИОМ [Электронный ресурс] // РБК Недвижимость. — 26.02.2026. — URL: https://realty.rbc.ru/news/69a047fa9a7947257ad4e03e (дата обращения: 06.05.2026).
+33. Аналитический центр НАФИ. Россияне рассказали, сколько мобильных приложений используют для разных задач [Электронный ресурс]. — 03.05.2024. — URL: https://nafi.ru/analytics/rossiyane-rasskazali-skolko-mobilnykh-prilozheniy-ispolzuyut-dlya-raznykh-zadach/ (дата обращения: 06.05.2026).
 
-34. Аналитический центр НАФИ. В России 83 % молодёжи считают семейный отдых наиболее интересным форматом путешествий : исследование совместно с программой Росмолодёжи «Больше, чем путешествие» [Электронный ресурс]. — 12.02.2025. — URL: https://nafi.ru/analytics/v-rossii-83-molodezhi-schitayut-semeynyy-otdykh-naibolee-interesnym-formatom-puteshestviy/ (дата обращения: 06.05.2026).
-
-35. Аналитический центр НАФИ. Россияне рассказали, сколько мобильных приложений используют для разных задач [Электронный ресурс]. — 03.05.2024. — URL: https://nafi.ru/analytics/rossiyane-rasskazali-skolko-mobilnykh-prilozheniy-ispolzuyut-dlya-raznykh-zadach/ (дата обращения: 06.05.2026).
-
-36. Newman S. Building Microservices: Designing Fine-Grained Systems / S. Newman. — 2nd ed. — Sebastopol : O'Reilly Media, 2021. — 612 p. — ISBN 978-1-492-03402-5.
+34. Newman S. Building Microservices: Designing Fine-Grained Systems / S. Newman. — 2nd ed. — Sebastopol : O'Reilly Media, 2021. — 612 p. — ISBN 978-1-492-03402-5.
 
 ---
 
 ## IV. Отраслевые стандарты и рекомендации
 
-37. Jena J. The Idempotency-Key HTTP Header Field : draft-ietf-httpapi-idempotency-key-header (Internet-Draft) [Электронный ресурс] / J. Jena, S. Dalal ; Internet Engineering Task Force. — 2025. — URL: https://datatracker.ietf.org/doc/draft-ietf-httpapi-idempotency-key-header/ (дата обращения: 07.05.2026).
+35. Jena J. The Idempotency-Key HTTP Header Field : draft-ietf-httpapi-idempotency-key-header (Internet-Draft) [Электронный ресурс] / J. Jena, S. Dalal ; Internet Engineering Task Force. — 2025. — URL: https://datatracker.ietf.org/doc/draft-ietf-httpapi-idempotency-key-header/ (дата обращения: 07.05.2026).
 
-38. Jones M. JSON Web Token (JWT) : RFC 7519 [Электронный ресурс] / M. Jones, J. Bradley, N. Sakimura. — IETF, 2015. — URL: https://datatracker.ietf.org/doc/html/rfc7519 (дата обращения: 07.05.2026).
+36. Jones M. JSON Web Token (JWT) : RFC 7519 [Электронный ресурс] / M. Jones, J. Bradley, N. Sakimura. — IETF, 2015. — URL: https://datatracker.ietf.org/doc/html/rfc7519 (дата обращения: 07.05.2026).
 
-39. OWASP Foundation. Password Storage Cheat Sheet [Электронный ресурс] / OWASP Cheat Sheet Series. — URL: https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html (дата обращения: 07.05.2026).
+37. OWASP Foundation. Password Storage Cheat Sheet [Электронный ресурс] / OWASP Cheat Sheet Series. — URL: https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html (дата обращения: 07.05.2026).
 
-40. React Router Documentation [Электронный ресурс]. — URL: https://reactrouter.com (дата обращения: 28.05.2026).
+38. React Router Documentation [Электронный ресурс]. — URL: https://reactrouter.com (дата обращения: 28.05.2026).
 
-41. TanStack Query Documentation [Электронный ресурс]. — URL: https://tanstack.com/query/latest (дата обращения: 28.05.2026).
+39. TanStack Query Documentation [Электронный ресурс]. — URL: https://tanstack.com/query/latest (дата обращения: 28.05.2026).
 
-42. Vite Documentation [Электронный ресурс]. — URL: https://vite.dev (дата обращения: 28.05.2026).
+40. Vite Documentation [Электронный ресурс]. — URL: https://vite.dev (дата обращения: 28.05.2026).
 
-43. Settle Up — Split expenses with friends [Электронный ресурс] / Step Up Labs. — URL: https://settleup.io (дата обращения: 30.05.2026).
+41. Settle Up — Split expenses with friends [Электронный ресурс] / Step Up Labs. — URL: https://settleup.io (дата обращения: 30.05.2026).
 
-44. Т-Банк. Как разделить общий счёт в ресторане : функция «Разделить» в мобильном приложении [Электронный ресурс] // Блог Т-Банка. — URL: https://www.tbank.ru/finance/blog/split-bills/ (дата обращения: 30.05.2026).
+42. Т-Банк. Как разделить общий счёт в ресторане : функция «Разделить» в мобильном приложении [Электронный ресурс] // Блог Т-Банка. — URL: https://www.tbank.ru/finance/blog/split-bills/ (дата обращения: 30.05.2026).
 
-45. Никитов А. Совместный сбор денег от Сбербанка: как создать общий сбор [Электронный ресурс] // Рамблер/личные финансы. — 2025. — 10 марта. — URL: https://finance.rambler.ru/karty-i-platezhi/54315479-sovmestnyy-sbor-deneg-ot-sberbanka-kak-sozdat-obschiy-sbor/ (дата обращения: 30.05.2026).
+43. Никитов А. Совместный сбор денег от Сбербанка: как создать общий сбор [Электронный ресурс] // Рамблер/личные финансы. — 2025. — 10 марта. — URL: https://finance.rambler.ru/karty-i-platezhi/54315479-sovmestnyy-sbor-deneg-ot-sberbanka-kak-sozdat-obschiy-sbor/ (дата обращения: 30.05.2026).
 
 ---
 
