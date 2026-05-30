@@ -16,21 +16,21 @@
 
 2. Gavrila L. A novel algorithm for clearing financial obligations between companies — an application within the Romanian Ministry of Economy / L. Gavrila, A. Popa // arXiv. — 2020. — arXiv:2012.05564. — URL: https://arxiv.org/abs/2012.05564 (дата обращения: 12.04.2026).
 
-3. Girdhar G. Design and Development of Expense App / G. Girdhar, S. Kumar, A. Bhardwaj, M. Sharma // 2024 International Conference on Advances in Computing Research on Science Engineering and Technology (ACROSET). — 2024. — DOI: 10.1109/ACROSET62108.2024.10743820.
+3. Girdhar G. Design and Development of Expense App / G. Girdhar, S. Kumar, A. Bhardwaj, M. Sharma // 2024 International Conference on Advances in Computing Research on Science Engineering and Technology (ACROSET). — 2024. — DOI: 10.1109/ACROSET62108.2024.10743820. — URL: https://doi.org/10.1109/ACROSET62108.2024.10743820 (дата обращения: 12.04.2026).
 
 4. Kleppmann M. Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems / M. Kleppmann. — Sebastopol : O'Reilly Media, 2017. — 616 p. — ISBN 978-1-4493-7332-0.
 
-5. Martin R.C. Clean Architecture: A Craftsman's Guide to Software Structure and Design / R.C. Martin. — Upper Saddle River : Prentice Hall, 2017. — 432 p. — ISBN 978-0-13-449416-6.
+5. Martin R. C. Clean Architecture: A Craftsman's Guide to Software Structure and Design / R. C. Martin. — Upper Saddle River : Prentice Hall, 2017. — 432 p. — ISBN 978-0-13-449416-6.
 
-6. Pătcaş C. The debts' clearing problem: a new approach / C. Pătcaş // arXiv. — 2011. — arXiv:1111.3663. — URL: https://arxiv.org/abs/1111.3663 (дата обращения: 12.04.2026).
+6. Pătcaş C. The debts' clearing problem: a new approach / C. Pătcaş // Acta Universitatis Sapientiae, Informatica. — 2011. — Vol. 3, No. 2. — P. 192–204. — arXiv:1111.3663. — URL: https://arxiv.org/abs/1111.3663 (дата обращения: 12.04.2026).
 
-7. Rahmatulloh A. Event-Driven Architecture to Improve Performance and Scalability in Microservices-Based Systems / A. Rahmatulloh, F. Nugraha, R. Gunawan, I. Darmawan // 2022 International Conference Advancement in Data Science, E-learning and Information Systems (ICADEIS). — 2022. — DOI: 10.1109/ICADEIS56544.2022.10037390.
+7. Rahmatulloh A. Event-Driven Architecture to Improve Performance and Scalability in Microservices-Based Systems / A. Rahmatulloh, F. Nugraha, R. Gunawan, I. Darmawan // 2022 International Conference Advancement in Data Science, E-learning and Information Systems (ICADEIS). — 2022. — DOI: 10.1109/ICADEIS56544.2022.10037390. — URL: https://doi.org/10.1109/ICADEIS56544.2022.10037390 (дата обращения: 12.04.2026).
 
 8. Tezuysal A. Database Design and Modeling with PostgreSQL and MySQL: Build efficient and scalable databases for modern applications using open source databases / A. Tezuysal, I. Ahmed. — Birmingham : Packt Publishing, 2024. — 222 p. — ISBN 978-1-80323-347-5.
 
-9. Tragura S.J.C. Building Python Microservices with FastAPI: Build secure, scalable, and structured Python microservices from design concepts to infrastructure / S.J.C. Tragura. — Birmingham : Packt Publishing, 2022. — 420 p. — ISBN 978-1-80324-596-6.
+9. Tragura S. J. C. Building Python Microservices with FastAPI: Build secure, scalable, and structured Python microservices from design concepts to infrastructure / S. J. C. Tragura. — Birmingham : Packt Publishing, 2022. — 420 p. — ISBN 978-1-80324-596-6.
 
-10. Yurochkin D.E. Development of an Application for Expense Accounting / D.E. Yurochkin, A.A. Horoshiy, S.A. Karpukhin // IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering (EIConRus). — Moscow, 2021. — DOI: 10.1109/EIConRus51938.2021.9396201.
+10. Yurochkin D. E. Development of an Application for Expense Accounting / D. E. Yurochkin, A. A. Horoshiy, S. A. Karpukhin // IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering (ElConRus). — Moscow, 2021. — DOI: 10.1109/ElConRus51938.2021.9396201. — URL: https://doi.org/10.1109/ElConRus51938.2021.9396201 (дата обращения: 12.04.2026).
 
 ---
 
@@ -40,7 +40,7 @@
 
 12. FastAPI Documentation [Электронный ресурс]. — URL: https://fastapi.tiangolo.com (дата обращения: 12.04.2026).
 
-13. Mohan M. K. Algorithm Behind Splitwise's Debt Simplification Feature [Электронный ресурс] / M. K. Mohan. — URL: https://medium.com/@mithunmk93/algorithm-behind-splitwises-debt-simplification-feature-8ac485e97688 (дата обращения: 12.04.2026).
+13. Mohan M. K. Algorithm Behind Splitwise's Debt Simplification Feature [Электронный ресурс] / M. K. Mohan // Medium. — 15.12.2019. — URL: https://medium.com/@mithunmk93/algorithm-behind-splitwises-debt-simplification-feature-8ac485e97688 (дата обращения: 12.04.2026).
 
 14. React Documentation [Электронный ресурс]. — URL: https://react.dev (дата обращения: 28.05.2026).
 
@@ -52,7 +52,7 @@
 
 18. Tricount — Simplify Group Expenses [Электронный ресурс] / bunq. — URL: https://www.tricount.com (дата обращения: 12.04.2026).
 
-19. Splid — Split group bills [Электронный ресурс] / Team Turtle. — URL: https://splid.app (дата обращения: 06.05.2026).
+19. Splid — Split group bills [Электронный ресурс] / N. Jersch. — URL: https://splid.app (дата обращения: 06.05.2026).
 
 20. Дзен-мани — приложение для контроля расходов [Электронный ресурс]. — URL: https://zenmoney.ru (дата обращения: 12.04.2026).
 
@@ -64,7 +64,7 @@
 
 24. Zustand Documentation [Электронный ресурс]. — URL: https://zustand.docs.pmnd.rs (дата обращения: 28.05.2026).
 
-25. SQLAlchemy Documentation [Электронный ресурс]. — URL: https://docs.sqlalchemy.org (дата обращения: 19.04.2026).
+25. SQLAlchemy Documentation [Электронный ресурс]. — URL: https://docs.sqlalchemy.org/en/20/ (дата обращения: 19.04.2026).
 
 26. OpenAPI Specification [Электронный ресурс]. — URL: https://spec.openapis.org/oas/latest.html (дата обращения: 19.04.2026).
 
@@ -114,7 +114,7 @@
 
 47. Manish Kumar M. CoinKeeper : an expense tracking web application [Электронный ресурс] / M. Manish Kumar. — GitHub. — URL: https://github.com/mk-manishkumar/coinkeeper (дата обращения: 30.05.2026).
 
-48. Awasthi V. Genz-Splitwise / V. Awasthi, S. Kushwaha, Shraddha, Saumya // International Journal for Multidisciplinary Research (IJFMR). — 2026. — Vol. 8, Issue 3 (May–June). — Paper ID IJFMR260377470. — URL: https://www.ijfmr.com/papers/2026/3/77470.pdf (дата обращения: 30.05.2026).
+48. Kushwaha S. genz-splitwise-splitter / S. Kushwaha // International Journal for Multidisciplinary Research (IJFMR). — 2026. — Vol. 8, Issue 3 (May–June). — Paper ID IJFMR260377470. — URL: https://www.ijfmr.com/papers/2026/3/77470.pdf (дата обращения: 30.05.2026).
 
 ---
 
