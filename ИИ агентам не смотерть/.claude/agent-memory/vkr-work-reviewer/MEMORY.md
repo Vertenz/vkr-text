@@ -1,0 +1,1 @@
+- [Final proofread state](project_final_proofread.md) — статус вычитки РАБОЧАЯ.docx + 2 остаточных дефекта ([46]→[38] в Прил.Г, статус balance_snapshot в Табл.10)
